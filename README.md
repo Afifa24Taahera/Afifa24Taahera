@@ -6,7 +6,7 @@
 - Machine Learning | EDA | Visualization  
 
 ## 📈 Projects
-- [HealthLens Data Analysis]()
+- [HealthLens Data Analysis](https://github.com/Afifa24Taahera/HealthLens)
 - [Airfare Insights (EDA)]()
 
 ## 🌐 Connect with Me
