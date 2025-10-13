@@ -8,7 +8,7 @@
 ## 📈 Projects
 - [HealthLens Data Analysis](https://github.com/Afifa24Taahera/HealthLens)
 - [Airfare Insights (EDA)](https://github.com/Surajmate21/Airfare-Insights-Analyzing-Indian-Flight-Prices-Patterns)
-- [MArket Metrics Analysis](https://github.com/Afifa24Taahera/HealthLens)
+- [MArket Metrics Analysis](https://github.com/PRANAVJ2804/MarketMetrics-Analyzing-Grocery-FMCG-Pricing-Trends)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/afifa24)
