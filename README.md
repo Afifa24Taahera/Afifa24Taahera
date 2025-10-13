@@ -7,10 +7,10 @@
 
 ## 📈 Projects
 - [HealthLens Data Analysis](https://github.com/Afifa24Taahera/HealthLens)
-- [Airfare Insights (EDA)]()
+- [Airfare Insights (EDA)](https://github.com/Surajmate21/Airfare-Insights-Analyzing-Indian-Flight-Prices-Patterns)
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://linkedin.com/in/yourname)
+- [LinkedIn](www.linkedin.com/in/afifa24)
 
 
 
