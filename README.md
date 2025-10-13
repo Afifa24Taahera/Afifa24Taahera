@@ -10,7 +10,7 @@
 - [Airfare Insights (EDA)](https://github.com/Surajmate21/Airfare-Insights-Analyzing-Indian-Flight-Prices-Patterns)
 
 ## 🌐 Connect with Me
-- [LinkedIn](www.linkedin.com/in/afifa24)
+- [LinkedIn(https://linkedin.com/in/afifa24)
 
 
 
