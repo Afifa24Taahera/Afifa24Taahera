@@ -1,17 +1,26 @@
 # Hi 👋, I'm Afifa Taahera  
 🎓 B.Tech 2022 | 💡 Aspiring Data Scientist  
 
+## 👨‍💻 About Me
+- 🎓 B.Tech in Computer Science & Certified Data Scientist from Masai  
+- 💡 Keen and motivated data-enthusiast with a strong interest in leveraging data to drive decision-making and uncover insights. 
+- 🔭 Seeking a role where I can contribute to data-driven initiatives, collaborate with cross-functional teams, and grow into a full-fledged data scientist 
+
 ## 🔧 Skills
-- Python | Pandas | NumPy | SQL | Power BI | Excel  
-- Machine Learning | EDA | Visualization  
+- Python | Pandas | NumPy | SQL | Power BI | Excel | Satistics
+- Machine Learning | Natural Language Processing | Deep Learning | EDA | Visualization  
 
 ## 📈 Projects
-- [HealthLens Data Analysis](https://github.com/Afifa24Taahera/HealthLens)
-- [Airfare Insights (EDA)](https://github.com/Surajmate21/Airfare-Insights-Analyzing-Indian-Flight-Prices-Patterns)
-- [MArket Metrics Analysis](https://github.com/PRANAVJ2804/MarketMetrics-Analyzing-Grocery-FMCG-Pricing-Trends)
+- HealthLens Data Analysis: A data analytics project focused on analyzing risk factors and patterns in heart disease using real-world patient data. [Project Link](https://github.com/Afifa24Taahera/HealthLens) 
+- Airfare Analysis: It analyzes the ticket price of the airlines. [Project Link)](https://github.com/Surajmate21/Airfare-Insights-Analyzing-Indian-Flight-Prices-Patterns)
+- MarketMetrics: It is a data analystics project focused on analyzing market trends. [Project Link](https://github.com/PRANAVJ2804/MarketMetrics-Analyzing-Grocery-FMCG-Pricing-Trends)
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://linkedin.com/in/afifa24)
+
+
+
+
 
 
 
